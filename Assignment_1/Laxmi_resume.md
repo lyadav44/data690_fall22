@@ -1,5 +1,5 @@
 # Laxmi Yadav
-* > lyadav1@umbc.edu
+* > lyadav1@umbc.edu ![](Photo.jpg)
 * > Phone Number: +1 667 345 4203
 
 ## Professional Summary
@@ -24,4 +24,10 @@
  * **Associate** in Cognizant Solution Pvt. LTD, India 
  * **Programmer Analyst** in Cognizant Solution Pvt. LTD, India
 
+## Certifications
+-	Classroom training on C and C++ programming language
+-	Vocational Training in Embedded Systems And PCB Designing
+-	Diploma in Application Programs & Hardware
 
+## Awards
+* **Star Award**  (Xoriant Pvt. Ltd.) in recognition of quickly learning the new tools as new joiner
