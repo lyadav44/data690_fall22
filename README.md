@@ -5,3 +5,7 @@ Data viz and Stats
 - **Consist of the class room in practice Notebook**
 - **Consist of the Resume of Laxmi Yadav designed using Markdown feature**
 - **Consist photos of Laxmi Yadav which is linked in resume**
+
+## Assignment 2 folder
+- **Consist of the class room in practice Notebook**
+- **Consist of homework assigment**
