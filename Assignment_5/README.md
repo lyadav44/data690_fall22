@@ -7,7 +7,7 @@
 ### Lecture 1 **Introduction**
 - The jupyter notebook is very useful for visualization and analysis as we can separate the code into different cells that does not need to be run all at once. 
 - So, we can analyze or visualize a specific aspect in the dataset using different cells
-- 
+
 ### Lecture 2 **Real Life Example of a Python/Pandas Data Analysis project**
 - I learned how to use numpy for Algebric functions. We can use numpy to get stats of the dataset.
 - I learned how to connect to MySQL using sakila database and use data from db
@@ -31,7 +31,8 @@
 - I also learned how to visually show the missing data using matplotlib, KDE (kernel density estimation), Histogram, pie, bar chart, scatter plot etc.
 
 ### Lecture 7: **Reading Data from other sources**
-- I learned how to read data sets from different sources like json, xml, html tables, 
+- I learned how to read data sets from different sources like json as request
+- I learned how to read data sets from relational database, csv, rest-api, text file
 
 ### Lecture 8: **Python Recap**
 - I learned that Python has a lot of different collections, operators, datatypes, functions, control flows, modules, exceptions etc.
