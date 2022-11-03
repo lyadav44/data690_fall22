@@ -34,3 +34,12 @@ The graph above led to the observations that are listed below:
 3. Nepal, Bhutan and Afganistan follows Srilanka being the consistant with the enrolled of the people over the period of time.
 4. One thing common between all the countries except India, is the the population of other South Asian countries is lesses than 20M and for most of the countries the trend is consistent.
 
+### Percentage of Youth in Labor Force
+![](PercentageLabor.png)
+
+Following are some observation of the above time series graph:
+1. From the above time series we can see that the percentage of youth for the age 15-24 experience the downtrend in the year 2019-2022 due to the covid.
+2. It can be clearly seen that Nepal stands out from all the other countries with youth labor-force participation of close to 80%.
+3. The participations of Indian youths in the Labor forces seems to be decreasing over the year form 35% to 15% from year 2010-2019. In 2020 it decreases more to 23%.
+4. Bhutan and Afganistan follows similar trend India being at the bottom.
+5. We can see that the trends in the countries' "Total of people enrolled in Secondary education" and "Percentage of youth in the labor force" are somewhat comparable. To help the inference, let's examine this resemblance in more detail using a scatter plot.
