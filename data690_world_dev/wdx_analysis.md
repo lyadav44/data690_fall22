@@ -26,7 +26,7 @@ We will consider South Asian countries for our observation:
 Prior to examining a comparison between the two, let's first take a closer look at youth involvement in the labor force and higher education separately.
 
 ### Total number of people enrolled in higher level education:
-![](newplot(4).png)
+![](Secondarypupil.png)
 
 The graph above led to the observations that are listed below:
 1. We can observe that, India having the large populations, has the highest enrollment of the people for higher level education over the period of the time i.e over 100 millions.
