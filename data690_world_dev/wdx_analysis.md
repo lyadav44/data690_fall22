@@ -22,4 +22,6 @@ We will consider South Asian countries for our observation:
 6. Srilanka
 7. Bangladesh
 
-## 
+## What connection exists between higher education enrolment and labor force participation?
+Prior to examining a comparison between the two, let's first take a closer look at youth involvement in the labor force and higher education separately.
+
