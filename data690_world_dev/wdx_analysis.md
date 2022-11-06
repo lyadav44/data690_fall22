@@ -54,5 +54,14 @@ Below are the observation from above graph
 2. Nepal, Bhutan, Sri Lanka and Bangladesh are followed by Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
 
 ### Comparing the above two indicator for the year 2018
+According to the scatterplot, Higher enrollment in seconary education does not increase the percentage of youth participating in Labor force.
+In this section we will observe if the same trend is followed for the year 2018 using bar chart.
 ![](20181.png)
 ![](20182.png)
+
+By comparing the above two graph it can be observed that the trend seen in scatterplot is followed in the year 2018 for ' youth participation in labor force (ages 15-24)' and ' pupil enrollment in secondary education' only to a certain extent.
+
+### Conclusion
+1. From the above observations we can come to the conclusion that pupil enrollment in secondary education has an impact on youth participation in labor force. The relation we see between these two factors seem to be inverse in nature.
+2. Since, we cannot come to a definite conclusion with above graphs, it can be inferred that enrollment in secondary education is not the only factor to determine youth participation in labor force.
+3. The decline in youth's participation in labor force is a matter of concern and further study is required. In order to build a strong and fast growing economy it is important to have higher number of youth participating in labor force. It is also important to understand the path of the youth after completing secondary education. For example, is the youth pursuing higher studies after secondary education? If not, then why not participate in the labor force? Such questions cannot be answered based solely on the observations made above and further research in the topic is required.
