@@ -54,5 +54,5 @@ Below are the observation from above graph
 2. Nepal, Bhutan, Sri Lanka and Bangladesh are followed by Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
 
 ### Comparing the above two indicator for the year 2010
-![](20101.png)
-![](20102.png)
+![](20181.png)
+![](20182.png)
