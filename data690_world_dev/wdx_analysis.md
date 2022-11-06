@@ -52,3 +52,7 @@ To help the inference, let's examine this resemblance in more detail using a sca
 Below are the observation from above graph
 1. From above graph, we can clearly see the higher the number of people enrolled in the secondary education, lesser the percentage of youth in labor force
 2. Nepal, Bhutan, Sri Lanka and Bangladesh are followed by Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
+
+### Comparing the above two indicator for the year 2010
+![](20101.png)
+![](20102.png)
