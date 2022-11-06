@@ -42,4 +42,13 @@ Following are some observation of the above time series graph:
 2. It can be clearly seen that Nepal stands out from all the other countries with youth labor-force participation of close to 80%.
 3. The participations of Indian youths in the Labor forces seems to be decreasing over the year form 35% to 15% from year 2010-2019. In 2020 it decreases more to 23%.
 4. Bhutan and Afganistan follows similar trend India being at the bottom.
-5. We can see that the trends in the countries' "Total of people enrolled in Secondary education" and "Percentage of youth in the labor force" are somewhat comparable. To help the inference, let's examine this resemblance in more detail using a scatter plot.
+5. We can see that the trends in the countries' "Total of people enrolled in Secondary education" and "Percentage of youth in the labor force" are somewhat comparable. 
+
+To help the inference, let's examine this resemblance in more detail using a scatter plot.
+
+### Comparison between "Percentage of Youth in Labor Force" VS "Total number of people enrolled in higher level education"
+![](Scatterplot1png)
+
+Below are the observation from above graph
+1. From above graph, we can clearly see the higher the number of people enrolled in the secondary education, lesser the percentage of youth in labor force
+2. Nepal, Bhutan, Sri Lanka and Bangladesh are followed by Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
