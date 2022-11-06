@@ -47,7 +47,7 @@ Following are some observation of the above time series graph:
 To help the inference, let's examine this resemblance in more detail using a scatter plot.
 
 ### Comparison between "Percentage of Youth in Labor Force" VS "Total number of people enrolled in higher level education"
-![](Scatterplot1png)
+![](Scatterplot1.png)
 
 Below are the observation from above graph
 1. From above graph, we can clearly see the higher the number of people enrolled in the secondary education, lesser the percentage of youth in labor force
