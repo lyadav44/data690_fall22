@@ -1,0 +1,67 @@
+,Year,Country Code,Country Name,Region,Income Group,Lending Type,SE.SEC.ENRL,SL.TLF.ACTI.1524.ZS
+0,2010,AFG,Afghanistan,South Asia,Low income,IDA,2044157.0,38.3870010376
+1,2010,BGD,Bangladesh,South Asia,Lower middle income,IDA,11334055.0,43.516998291
+2,2010,BTN,Bhutan,South Asia,Lower middle income,IDA,60036.0,41.4560012817
+3,2010,IND,India,South Asia,Lower middle income,IBRD,107686864.0,35.7019996643
+4,2010,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2524673.0,34.8629989624
+5,2010,NPL,Nepal,South Asia,Lower middle income,IDA,2694256.0,75.1920013428
+6,2010,PAK,Pakistan,South Asia,Lower middle income,Blend,9654940.0,41.3969993591
+7,2011,AFG,Afghanistan,South Asia,Low income,IDA,2208963.0,38.6030006409
+8,2011,BGD,Bangladesh,South Asia,Lower middle income,IDA,11542964.0,42.6290016174
+9,2011,BTN,Bhutan,South Asia,Lower middle income,IDA,62768.0,38.9560012817
+10,2011,IND,India,South Asia,Lower middle income,IBRD,113727864.0,34.1329994202
+11,2011,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2573842.0,33.7019996643
+12,2011,NPL,Nepal,South Asia,Lower middle income,IDA,2850361.0,75.0110015869
+13,2011,PAK,Pakistan,South Asia,Lower middle income,Blend,9939407.0,40.0099983215
+14,2012,AFG,Afghanistan,South Asia,Low income,IDA,2415884.0,38.8639984131
+15,2012,BGD,Bangladesh,South Asia,Lower middle income,IDA,12187154.0,41.7410011292
+16,2012,BTN,Bhutan,South Asia,Lower middle income,IDA,66072.0,33.0159988403
+17,2012,IND,India,South Asia,Lower middle income,IBRD,119148200.0,32.5909996033
+18,2012,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2590357.0,33.4920005798
+19,2012,NPL,Nepal,South Asia,Lower middle income,IDA,3035958.0,74.9909973145
+20,2012,PAK,Pakistan,South Asia,Lower middle income,Blend,10371759.0,40.563999176
+21,2013,AFG,Afghanistan,South Asia,Low income,IDA,2538420.0,38.9869995117
+22,2013,BGD,Bangladesh,South Asia,Lower middle income,IDA,13314077.0,40.8530006409
+23,2013,BTN,Bhutan,South Asia,Lower middle income,IDA,68775.0,31.017999649
+24,2013,IND,India,South Asia,Lower middle income,IBRD,119400528.0,31.5200004578
+25,2013,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2605597.0,33.8199996948
+26,2013,NPL,Nepal,South Asia,Lower middle income,IDA,3111257.0,75.0780029297
+27,2013,PAK,Pakistan,South Asia,Lower middle income,Blend,10794350.0,41.1160011292
+28,2014,AFG,Afghanistan,South Asia,Low income,IDA,2602734.0,39.1020011902
+30,2014,BTN,Bhutan,South Asia,Lower middle income,IDA,74227.0,27.7150001526
+31,2014,IND,India,South Asia,Lower middle income,IBRD,129438992.0,30.4650001526
+33,2014,NPL,Nepal,South Asia,Lower middle income,IDA,3163946.0,75.1809997559
+34,2014,PAK,Pakistan,South Asia,Lower middle income,Blend,11286628.0,39.7410011292
+35,2015,AFG,Afghanistan,South Asia,Low income,IDA,2651459.0,39.2039985657
+36,2015,BGD,Bangladesh,South Asia,Lower middle income,IDA,14566771.0,39.0820007324
+37,2015,BTN,Bhutan,South Asia,Lower middle income,IDA,74320.0,30.4200000763
+38,2015,IND,India,South Asia,Lower middle income,IBRD,129542056.0,29.4270000458
+40,2015,NPL,Nepal,South Asia,Lower middle income,IDA,3176320.0,75.2450027466
+41,2015,PAK,Pakistan,South Asia,Lower middle income,Blend,12077917.0,39.9620018005
+42,2016,AFG,Afghanistan,South Asia,Low income,IDA,2725421.0,39.2869987488
+43,2016,BGD,Bangladesh,South Asia,Lower middle income,IDA,15787818.0,38.2039985657
+44,2016,BTN,Bhutan,South Asia,Lower middle income,IDA,74393.0,29.7910003662
+45,2016,IND,India,South Asia,Lower middle income,IBRD,132161360.0,28.4090003967
+46,2016,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2618895.0,32.6819992065
+47,2016,NPL,Nepal,South Asia,Lower middle income,IDA,3277231.0,75.3899993896
+48,2016,PAK,Pakistan,South Asia,Lower middle income,Blend,12597433.0,39.8959999084
+49,2017,AFG,Afghanistan,South Asia,Low income,IDA,2899453.0,39.3660011292
+50,2017,BGD,Bangladesh,South Asia,Lower middle income,IDA,15314757.0,40.7290000916
+51,2017,BTN,Bhutan,South Asia,Lower middle income,IDA,75444.0,29.1690006256
+52,2017,IND,India,South Asia,Lower middle income,IBRD,129829192.0,27.4109992981
+53,2017,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2648660.0,32.8909988403
+54,2017,NPL,Nepal,South Asia,Lower middle income,IDA,3336650.0,75.4199981689
+55,2017,PAK,Pakistan,South Asia,Lower middle income,Blend,12529168.0,39.8320007324
+56,2018,AFG,Afghanistan,South Asia,Low income,IDA,3063889.0,39.4550018311
+57,2018,BGD,Bangladesh,South Asia,Lower middle income,IDA,15869820.0,40.7070007324
+58,2018,BTN,Bhutan,South Asia,Lower middle income,IDA,76221.0,28.5340003967
+59,2018,IND,India,South Asia,Lower middle income,IBRD,131759760.0,26.4319992065
+60,2018,LKA,Sri Lanka,South Asia,Lower middle income,IBRD,2727965.0,29.9599990845
+62,2018,PAK,Pakistan,South Asia,Lower middle income,Blend,13357618.0,39.7709999084
+64,2019,BGD,Bangladesh,South Asia,Lower middle income,IDA,15710974.0,40.5970001221
+66,2019,IND,India,South Asia,Lower middle income,IBRD,130932816.0,26.5230007172
+68,2019,NPL,Nepal,South Asia,Lower middle income,IDA,3463763.0,75.2139968872
+69,2019,PAK,Pakistan,South Asia,Lower middle income,Blend,14189390.0,39.6409988403
+71,2020,BGD,Bangladesh,South Asia,Lower middle income,IDA,15954852.0,38.0369987488
+73,2020,IND,India,South Asia,Lower middle income,IBRD,134043296.0,23.2460002899
+75,2020,NPL,Nepal,South Asia,Lower middle income,IDA,3631853.0,67.2559967041
