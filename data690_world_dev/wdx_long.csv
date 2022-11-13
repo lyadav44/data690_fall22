@@ -1,0 +1,259 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,1710.762927692,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+1,2011,1699.4881101974,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+2,2012,1914.7742283796,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+3,2013,2015.5147746695,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+4,2014,2069.4240216736,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+5,2015,2087.3053230668,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+6,2016,1981.118068507,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+7,2017,2058.4002210698,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+8,2018,2082.3921973316,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+9,2019,2152.1902428295,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+10,2020,2078.479081826,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+11,2010,2439.3370027323,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+12,2011,2620.8337904087,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+13,2012,2937.6287981042,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+14,2013,3143.5855027524,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+15,2014,3368.0561640314,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+16,2015,3555.505259706,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+17,2016,4610.7184362825,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+18,2017,4894.5633653895,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+19,2018,5321.940224518,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+20,2019,5784.2696358565,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+21,2020,5995.4074285928,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+22,2021,6613.013274748,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+23,2010,6694.2496690953,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+24,2011,7295.8533284229,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+25,2012,7912.1446445091,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+26,2013,7989.6891789258,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+27,2014,8666.4557246366,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+28,2015,9500.6507156498,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+29,2016,10457.244384538,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+30,2017,11142.4746724654,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+31,2018,11619.5574665237,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+32,2019,12365.5138425313,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+33,2020,11129.3084547092,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+34,2010,4237.208788095,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+35,2011,4493.6694656757,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+36,2012,4861.156152362,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+37,2013,5057.2334137482,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+38,2014,5233.8823425132,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+39,2015,5464.8591780094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+40,2016,5839.8648167534,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+41,2017,6182.9221085744,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+42,2018,6669.6227843001,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+43,2019,6971.6872764783,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+44,2020,6525.4280520948,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+45,2021,7333.505611842,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+46,2010,12713.7367644559,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+47,2011,13542.9986741713,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+48,2012,13690.7351991166,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+49,2013,14774.1856353898,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+50,2014,15993.0586879357,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+51,2015,16768.7341787765,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+52,2016,17411.3472516639,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+53,2017,18057.9109233313,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+54,2018,19242.8317253968,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+55,2019,20333.9241518872,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+56,2020,13442.3861472741,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+57,2021,18232.2447260345,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+58,2010,2164.9516529706,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+59,2011,2283.1855801472,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+60,2012,2505.391810396,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+61,2013,2702.2249626406,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+62,2014,2947.3164872906,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+63,2015,2996.220461927,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+64,2016,2989.6750064027,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+65,2017,3565.1978074109,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+66,2018,3863.8704020511,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+67,2019,4119.5849794961,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+68,2020,3996.6654700556,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+69,2021,4260.8396940912,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+70,2010,4379.0588181643,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+71,2011,4494.8093122883,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+72,2012,4523.1423077413,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+73,2013,4618.6949238216,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+74,2014,4770.644236834,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+75,2015,4921.8915704511,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+76,2016,4963.5267073361,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+77,2017,5091.0871639677,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+78,2018,5420.6957917718,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+79,2019,5542.2088507071,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+80,2020,5426.0197879011,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+81,2021,5877.6425797729,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+82,2010,8195.1675255655,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+83,2011,9007.7341986963,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+84,2012,10315.1802471606,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+85,2013,10852.0640424766,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+86,2014,11256.8560497537,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+87,2015,11557.4870517689,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+88,2016,12224.2157651465,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+89,2017,12584.1047924776,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+90,2018,13167.5552958504,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+91,2019,13631.5551961271,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+92,2020,13226.7300579257,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+93,2021,14127.2112794587,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+94,2010,38.3870010376,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+95,2011,38.6030006409,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+96,2012,38.8639984131,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+97,2013,38.9869995117,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+98,2014,39.1020011902,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+99,2015,39.2039985657,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+100,2016,39.2869987488,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+101,2017,39.3660011292,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+102,2018,39.4550018311,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+103,2019,39.5369987488,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+104,2020,34.0629997253,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+105,2021,33.7410011292,SL.TLF.ACTI.1524.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+106,2010,43.516998291,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+107,2011,42.6290016174,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+108,2012,41.7410011292,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+109,2013,40.8530006409,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+110,2014,39.966999054,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+111,2015,39.0820007324,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+112,2016,38.2039985657,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+113,2017,40.7290000916,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+114,2018,40.7070007324,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+115,2019,40.5970001221,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+116,2020,38.0369987488,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+117,2021,39.3829994202,SL.TLF.ACTI.1524.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+118,2010,41.4560012817,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+119,2011,38.9560012817,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+120,2012,33.0159988403,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+121,2013,31.017999649,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+122,2014,27.7150001526,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+123,2015,30.4200000763,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+124,2016,29.7910003662,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+125,2017,29.1690006256,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+126,2018,28.5340003967,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+127,2019,27.8579998016,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+128,2020,25.7469997406,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+129,2021,26.3810005188,SL.TLF.ACTI.1524.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+130,2010,35.7019996643,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+131,2011,34.1329994202,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+132,2012,32.5909996033,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+133,2013,31.5200004578,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+134,2014,30.4650001526,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+135,2015,29.4270000458,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+136,2016,28.4090003967,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+137,2017,27.4109992981,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+138,2018,26.4319992065,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+139,2019,26.5230007172,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+140,2020,23.2460002899,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+141,2021,23.6840000153,SL.TLF.ACTI.1524.ZS,IND,India,South Asia,Lower middle income,IBRD
+142,2010,42.8349990845,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+143,2011,43.7410011292,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+144,2012,44.6279983521,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+145,2013,45.5060005188,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+146,2014,46.3860015869,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+147,2015,47.2789993286,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+148,2016,48.3639984131,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+149,2017,48.5540008545,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+150,2018,48.3009986877,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+151,2019,47.7150001526,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+152,2020,44.2299995422,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+153,2021,46.4150009155,SL.TLF.ACTI.1524.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+154,2010,75.1920013428,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+155,2011,75.0110015869,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+156,2012,74.9909973145,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+157,2013,75.0780029297,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+158,2014,75.1809997559,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+159,2015,75.2450027466,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+160,2016,75.3899993896,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+161,2017,75.4199981689,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+162,2018,75.3529968262,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+163,2019,75.2139968872,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+164,2020,67.2559967041,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+165,2021,70.7040023804,SL.TLF.ACTI.1524.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+166,2010,41.3969993591,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+167,2011,40.0099983215,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+168,2012,40.563999176,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+169,2013,41.1160011292,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+170,2014,39.7410011292,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+171,2015,39.9620018005,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+172,2016,39.8959999084,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+173,2017,39.8320007324,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+174,2018,39.7709999084,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+175,2019,39.6409988403,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+176,2020,37.4090003967,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+177,2021,38.9910011292,SL.TLF.ACTI.1524.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+178,2010,34.8629989624,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+179,2011,33.7019996643,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+180,2012,33.4920005798,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+181,2013,33.8199996948,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+182,2014,32.5839996338,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+183,2015,33.5839996338,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+184,2016,32.6819992065,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+185,2017,32.8909988403,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+186,2018,29.9599990845,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+187,2019,28.3850002289,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+188,2020,25.9440002441,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+189,2021,26.7630004883,SL.TLF.ACTI.1524.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+190,2010,2044157.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+191,2011,2208963.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+192,2012,2415884.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+193,2013,2538420.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+194,2014,2602734.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+195,2015,2651459.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+196,2016,2725421.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+197,2017,2899453.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+198,2018,3063889.0,SE.SEC.ENRL,AFG,Afghanistan,South Asia,Low income,IDA
+199,2010,11334055.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+200,2011,11542964.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+201,2012,12187154.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+202,2013,13314077.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+203,2015,14566771.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+204,2016,15787818.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+205,2017,15314757.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+206,2018,15869820.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+207,2019,15710974.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+208,2020,15954852.0,SE.SEC.ENRL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+209,2010,60036.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+210,2011,62768.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+211,2012,66072.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+212,2013,68775.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+213,2014,74227.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+214,2015,74320.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+215,2016,74393.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+216,2017,75444.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+217,2018,76221.0,SE.SEC.ENRL,BTN,Bhutan,South Asia,Lower middle income,IDA
+218,2010,107686864.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+219,2011,113727864.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+220,2012,119148200.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+221,2013,119400528.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+222,2014,129438992.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+223,2015,129542056.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+224,2016,132161360.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+225,2017,129829192.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+226,2018,131759760.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+227,2019,130932816.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+228,2020,134043296.0,SE.SEC.ENRL,IND,India,South Asia,Lower middle income,IBRD
+229,2018,22765.0,SE.SEC.ENRL,MDV,Maldives,South Asia,Upper middle income,IDA
+230,2019,21293.0,SE.SEC.ENRL,MDV,Maldives,South Asia,Upper middle income,IDA
+231,2010,2694256.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+232,2011,2850361.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+233,2012,3035958.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+234,2013,3111257.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+235,2014,3163946.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+236,2015,3176320.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+237,2016,3277231.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+238,2017,3336650.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+239,2019,3463763.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+240,2020,3631853.0,SE.SEC.ENRL,NPL,Nepal,South Asia,Lower middle income,IDA
+241,2010,9654940.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+242,2011,9939407.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+243,2012,10371759.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+244,2013,10794350.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+245,2014,11286628.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+246,2015,12077917.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+247,2016,12597433.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+248,2017,12529168.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+249,2018,13357618.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+250,2019,14189390.0,SE.SEC.ENRL,PAK,Pakistan,South Asia,Lower middle income,Blend
+251,2010,2524673.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+252,2011,2573842.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+253,2012,2590357.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+254,2013,2605597.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+255,2016,2618895.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+256,2017,2648660.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+257,2018,2727965.0,SE.SEC.ENRL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
